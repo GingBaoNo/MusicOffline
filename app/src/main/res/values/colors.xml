@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark_gradient_start">#111726</color>
+    <color name="bg_dark_gradient_end">#07090E</color>
+    <color name="bg_card_dark">#1A2238</color>
+    <color name="accent_purple">#8E2DE2</color>
+    <color name="accent_pink">#4A00E0</color>
+    <color name="color_active">#FF2A6D</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8A94A6</color>
+</resources>
