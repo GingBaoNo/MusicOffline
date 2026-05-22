@@ -26,20 +26,18 @@
 
 ## Màn hình ứng dụng
 
-| Giao diện                 | Mô tả |
-|---------------------------|---|
-| ![](screenshots/anh1.jpg) | Màn hình danh sách bài hát |
-| ![](screenshots/anh2.jpg) | Màn hình chi tiết từng bài hát |
-| ![](screenshots/anh3.jpg) | Màn hình tìm kiếm bài hát |
-| ![](screenshots/anh4.jpg) | Màn hình danh sách Playlist |
+<div align="center">
 
-## Tính năng
+<img src="screenshots/anh1.jpg" width="220"/>
+<img src="screenshots/anh2.jpg" width="220"/>
+<img src="screenshots/anh3.jpg" width="220"/>
+<img src="screenshots/anh4.jpg" width="220"/>
 
-| Tính năng | Mô tả |
+</div>
+
+| Giao diện | Mô tả |
 |---|---|
-|  Quét thư viện nhạc | Tự động đọc tất cả tệp audio từ MediaStore |
-|  Tìm kiếm | Lọc bài hát theo tên hoặc nghệ sĩ real-time |
-|  Phát nhạc | Điều khiển phát/dừng bằng ExoPlayer |
-|  Yêu thích | Bật/tắt trạng thái yêu thích từng bài |
-|  Playlist | Tạo playlist mới, thêm/xóa bài hát |
-|  UI | Material Design, BottomNavigation, ConstraintLayout |
+| Ảnh 1 | Màn hình danh sách bài hát |
+| Ảnh 2 | Màn hình chi tiết từng bài hát |
+| Ảnh 3 | Màn hình tìm kiếm bài hát |
+| Ảnh 4 | Màn hình danh sách Playlist |
